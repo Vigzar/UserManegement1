@@ -1,0 +1,14 @@
+F:\на проверку\UserManegement\UserManegement\bin\Debug\UserManegement.exe.config
+F:\на проверку\UserManegement\UserManegement\bin\Debug\UserManegement.exe
+F:\на проверку\UserManegement\UserManegement\bin\Debug\UserManegement.pdb
+F:\на проверку\UserManegement\UserManegement\obj\Debug\UserManegement.csproj.AssemblyReference.cache
+F:\на проверку\UserManegement\UserManegement\obj\Debug\UserManegement.LoginForm.resources
+F:\на проверку\UserManegement\UserManegement\obj\Debug\UserManegement.MainForm.resources
+F:\на проверку\UserManegement\UserManegement\obj\Debug\UserManegement.Properties.Resources.resources
+F:\на проверку\UserManegement\UserManegement\obj\Debug\UserManegement.ReportingForm.resources
+F:\на проверку\UserManegement\UserManegement\obj\Debug\UserManegement.TaskManagementForm.resources
+F:\на проверку\UserManegement\UserManegement\obj\Debug\UserManegement.TimeTrackingForm.resources
+F:\на проверку\UserManegement\UserManegement\obj\Debug\UserManegement.csproj.GenerateResource.cache
+F:\на проверку\UserManegement\UserManegement\obj\Debug\UserManegement.csproj.CoreCompileInputs.cache
+F:\на проверку\UserManegement\UserManegement\obj\Debug\UserManegement.exe
+F:\на проверку\UserManegement\UserManegement\obj\Debug\UserManegement.pdb
